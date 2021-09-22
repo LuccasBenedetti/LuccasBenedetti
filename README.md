@@ -2,5 +2,5 @@
 
 <h1>Hello there! 👋</h1>
   
-  I'm Luccas, a computer science student from Brazil. I've never had a GitHub profile, but I'm quite familiar with the platform, welcome to my profile!
+  I'm Luccas, a computer science student from Brazil. 
 <h2>Skills</h2>
