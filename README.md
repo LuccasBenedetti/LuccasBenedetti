@@ -1,16 +1,16 @@
-![Profile Header](https://github.com/LuccasBenedetti/files/blob/main/welcome.png)
+![Profile Header](https://github.com/LuccasBenedetti/files/blob/main/welcome.png "Header")
 
 <h1>Hello there! 👋</h1>
   I'm Luccas, a computer science student from Brazil. 
 <br></br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LuccasBenedetti&layout=compact&langs_count=7&theme=github_dark)
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasBenedetti&layout=compact&langs_count=7&theme=github_dark)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=LuccasBenedetti&theme=github_dark)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasBenedetti&langs_count=7&theme=github_dark)
 <p align="left"><br>
-  <a href="https://www.instagram.com/luccas.benedetti/" target="_blank"><img src="https://img.shields.io/badge/Instagram-orange?          style=flat&logo=instagram&logoColor=white&labelColor=orange"></a>
-  <a href="https://www.linkedin.com/in/luccas-benedetti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-  <a href="https://twitter.com/otardolusca" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white&labelColor=blue"></a>
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-orange?style=flat&logo=instagram&logoColor=white&labelColor=orange "My Instagram profile")](https://www.instagram.com/luccas.benedetti/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue "My LinkedIn profile")](https://www.linkedin.com/in/luccas-benedetti/)
+  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white&labelColor=blue "My Twitter profile")](https://twitter.com/otardolusca)
 </br></p>     
 
 <h2>Skills</h2>
