@@ -19,10 +19,10 @@
   
   ![](https://img.shields.io/badge/Code-C-brightgreen?style=flat&logo=c)
   ![](https://img.shields.io/badge/Code-C++-brightgreen?style=flat&logo=c%2B%2b)
-  ![](https://img.shields.io/badge/Code-HTML-brightgreen?style=flat&logo=HTML5&logoColor=white)
-  ![](https://img.shields.io/badge/Code-CSS-brightgreen?style=flat&logo=CSS3)
   ![](https://img.shields.io/badge/Code-Java-brightgreen?style=flat&logo=java)
   ![](https://img.shields.io/badge/Code-JavaScript-brightgreen?style=flat&logo=javascript&logoColor=white)
+  ![](https://img.shields.io/badge/Code-TypeScript-brightgreen?style=flat&logo=javascript&logoColor=white)
+  
 </p>
 <h4>Tools</h4><p align="left">
   
